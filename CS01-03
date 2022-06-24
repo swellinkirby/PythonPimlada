@@ -1,0 +1,2 @@
+a = int(input('Pls input your birth date : '))
+print(a)
