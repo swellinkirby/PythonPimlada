@@ -1,0 +1,7 @@
+a = str(input('Pls input Alphabet : '))
+if a == 'A' :
+    print("is A")
+elif a == 'a' :
+    print("is A")
+else:
+    print("Not A")
