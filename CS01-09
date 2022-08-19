@@ -1,0 +1,7 @@
+a = int(input("Pls input first number : "))
+b = int(input("Pls input second number : "))
+c = int(input("Pls input third number : "))
+if a > b and a < c :
+    print('Conditions is True')
+else:
+    print('Conditions is False')
